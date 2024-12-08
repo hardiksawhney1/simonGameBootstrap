@@ -1,0 +1,16 @@
+body {
+  background-color: #011F3F;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  color: #FEF2BF;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+}
+ 
+.gameBtn-pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
